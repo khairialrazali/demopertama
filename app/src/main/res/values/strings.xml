@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demopertama</string>
+
+    <string name="hello_world">Hello world zulkhairi!</string>
+    <string name="apakabar_dunia">Apa kabar zulkhairi!</string>
+    <string name="tombol_terjemahan">Terjemahkan</string>
+    <string name="action_settings">Settings</string>
+</resources>
